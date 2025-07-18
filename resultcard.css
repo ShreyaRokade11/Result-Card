@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#maincard{
+    height: 520px;
+    width: 800px;
+    background-color:white;
+    margin-top: 180px;
+    margin-left: 330px;
+    border-radius: 30px;
+}
+#tag1{
+    color: white;
+    font-size: 33px;
+    font-weight: bolder;
+}
+#pink{
+    background-color: #7D1C4A;
+    width: 380px;
+    height: 480px;
+    float: left;
+    padding-top: 40px;
+    text-align: center;
+    border-radius: 30px;
+}
+#circle{
+    background-color: #56021f67;
+    height: 200px;
+    width: 200px;
+    border-radius: 75px;
+    text-align: center;
+    margin-top: 80px;
+    margin-left: 80px;
+}
+#marks{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 60px;
+    font-weight:bolder;
+    color: white;
+}
+#of100{
+    text-align: center;
+    padding-top: 30px;
+    font-size:20px;
+    font-weight:lighter;
+    color: white;
+}
+#great{
+    padding-top: 20px;
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+}
+#des{
+    padding-top: 20px;
+    text-align: center;
+    font-weight:lighter;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+#rightside{
+    float: right;
+    padding-right: 150px;
+    margin-top: 40px;
+   
+}
+#tag2{
+      color:#7D1C4A;
+    font-size: 40px;
+    font-weight: bolder; 
+    text-align: center;
+
+}
+#Summary{
+    padding-top: 80px;
+    justify-content: center;
+}
+#a1{
+    background-color: rgba(234, 193, 193, 0.493);
+    color: red;
+    width: 250px;
+    height: 40px;
+    border-radius: 8px;
+     padding: 4px;
+    text-align: center;
+}
+#a2{
+    margin-top: 15px;
+background-color: rgba(240, 228, 89, 0.26);
+    color:rgb(112, 112, 25);
+    width: 250px;
+    height: 40px;
+    border-radius: 8px;
+     padding: 4px;
+     text-align: center;
+    
+}
+#a3{
+    margin-top: 15px;
+   background-color: rgba(104, 239, 104, 0.313);
+    color:green;
+    width: 250px;
+    height: 40px;
+    border-radius: 8px;
+     padding: 4px;
+     text-align: center;
+}
+#a4{
+    margin-top: 15px;
+background-color: rgba(152, 152, 248, 0.279);
+    color:blue;
+    width: 250px;
+    height: 40px;
+    border-radius: 8px;
+    padding: 4px;
+     text-align: center;
+}
+span{
+    float: right;
+}
+button{
+  margin-top: 30px;
+    margin-left: 26px;
+    width: 250px;
+    height: 40px;
+    background-color: #7D1C4A;
+    color: white;
+    font-size: larger;
+    border-radius: 8px;
+    border-color: #7D1C4A;
+}
